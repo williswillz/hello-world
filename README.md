@@ -1,8 +1,8 @@
 # hello-world
-Just another reponsitory
 
 Hi Everyone!
 
-Willis here, I love and like electronis
-(That's how i am)
-Started building basic circuits
+
+Willis here, I love and like electronis (But is it looks like am new here)
+That's how i am started building basic circuits.
+
